@@ -15,8 +15,7 @@
               </div>
               <div class="item hero-unit dfam-hero">
                 <h1 class="dfam">&nbsp;</h1>
-                <p>The Dfam database is a collection of Repetitive DNA element sequence alignments, hidden Markov models (HMMs) and matches lists for complete Eukaryote genomes.</p>
-                <p><a class="btn btn-success btn-large" href="http://dfam.org">Go to site &raquo;</a></p>
+                <p>The Dfam database (<a href="http://dfam.org"> Dfam.org </a>) is not housed at EBI.</p>
               </div>
               <div class="item hero-unit treefam-hero">
                 <h1 class="treefam">&nbsp;</h1>
@@ -25,8 +24,7 @@
               </div>
               <div class="item hero-unit ipfam-hero">
                 <h1 class="ipfam">&nbsp;</h1>
-                <p>The iPfam database is a catalog of protein family interactions, including domain and ligand interactions, calculated from known structures.</p>
-                <p><a class="btn btn-success btn-large" href="http://ipfam.org">Go to site &raquo;</a></p>
+                <p>The iPFam database is no longer available.</p>
               </div>
             </div>
             <!-- Carousel nav -->
@@ -49,8 +47,7 @@
         </div>
         <div class="span4">
           <h2 class="dfam small-label">&nbsp;</h2>
-          <p>The Dfam database is a collection of Repetitive DNA element sequence alignments, hidden Markov models (HMMs) and matches lists for complete Eukaryote genomes.<p>
-          <p><a class="btn visible-phone" href="http://dfam.org">Go to site &raquo;</a></p>
+          <p>The Dfam database (<a href="http://dfam.org"> Dfam.org </a>) is not housed at EBI.<p>
         </div>
       </div>
 
@@ -61,9 +58,6 @@
         <div class="span4">
           <p><a class="btn" href="http://rfam.xfam.org">Go to site &raquo;</a></p>
         </div>
-        <div class="span4">
-          <p><a class="btn" href="http://dfam.org">Go to site &raquo;</a></p>
-        </div>
       </div>
 
       <div class="row">
@@ -73,23 +67,19 @@
           <p><a class="btn visible-phone" href="http://www.treefam.org">Go to site &raquo;</a></p>
         </div>
         <div class="span4">
-          <h2 class="ipfam small-label">&nbsp;</h2>
-          <p>The iPfam database is a catalog of protein family interactions, including domain and ligand interactions, calculated from known structures.</p>
-          <p><a class="btn visible-phone" href="http://ipfam.org">Go to site &raquo;</a></p>
+           <h2 class="antifam small-label">&nbsp;</h2>
+           <p>AntiFam is a collection of hidden Markov models (HMMs) designed to identify spurious open reading frames (ORFs). </p>
+           <p><a class="btn visible-phone" href="ftp://ftp.ebi.ac.uk/pub/databases/Pfam/AntiFam">Go to FTP site &raquo;</a></p>
         </div>
         <div class="span4">
-          <h2 class="antifam small-label">&nbsp;</h2>
-          <p>AntiFam is a collection of hidden Markov models (HMMs) designed to identify spurious open reading frames (ORFs). </p>
-          <p><a class="btn visible-phone" href="ftp://ftp.ebi.ac.uk/pub/databases/Pfam/AntiFam">Go to FTP site &raquo;</a></p>
+          <h2 class="ipfam small-label">&nbsp;</h2>
+          <p>The iPFam database is no longer available.</p>
         </div>
       </div>
 
       <div class="row hidden-phone">
         <div class="span4">
           <p><a class="btn" href="http://www.treefam.org">Go to site &raquo;</a></p>
-        </div>
-        <div class="span4">
-          <p><a class="btn" href="http://ipfam.org">Go to site &raquo;</a></p>
         </div>
         <div class="span4">
           <p><a class="btn" href="ftp://ftp.ebi.ac.uk/pub/databases/Pfam/AntiFam">Go to FTP site &raquo;</a></p>

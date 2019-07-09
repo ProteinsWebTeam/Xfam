@@ -15,7 +15,8 @@
               </div>
               <div class="item hero-unit dfam-hero">
                 <h1 class="dfam">&nbsp;</h1>
-                <p>The Dfam database (<a href="http://dfam.org"> Dfam.org </a>) is not housed at EBI.</p>
+                <p>The Dfam database is hosted by the Institute for Systems Biology, Seattle, US.</p>
+                <p><a class="btn btn-success btn-large" href="http://dfam.org">Go to site &raquo;</a></p>
               </div>
               <div class="item hero-unit treefam-hero">
                 <h1 class="treefam">&nbsp;</h1>
@@ -24,7 +25,7 @@
               </div>
               <div class="item hero-unit ipfam-hero">
                 <h1 class="ipfam">&nbsp;</h1>
-                <p>The iPFam database is no longer available.</p>
+                <p>The iPfam database is no longer available.</p>
               </div>
             </div>
             <!-- Carousel nav -->
@@ -47,7 +48,8 @@
         </div>
         <div class="span4">
           <h2 class="dfam small-label">&nbsp;</h2>
-          <p>The Dfam database (<a href="http://dfam.org"> Dfam.org </a>) is not housed at EBI.<p>
+          <p>The Dfam database is hosted by the Institute for Systems Biology, Seattle, US.</p>
+          <p><a class="btn visible-phone" href="http://dfam.org">Go to site &raquo;</a></p>
         </div>
       </div>
 
@@ -57,6 +59,9 @@
         </div>
         <div class="span4">
           <p><a class="btn" href="http://rfam.xfam.org">Go to site &raquo;</a></p>
+        </div>
+        <div class="span4">
+           <p><a class="btn" href="http://dfam.org">Go to site &raquo;</a></p>
         </div>
       </div>
 
@@ -73,7 +78,7 @@
         </div>
         <div class="span4">
           <h2 class="ipfam small-label">&nbsp;</h2>
-          <p>The iPFam database is no longer available.</p>
+          <p>The iPfam database is no longer available.</p>
         </div>
       </div>
 
